@@ -25,7 +25,7 @@ The goal is to demonstrate how to open raw sockets, manage asynchronous streams,
 
 1. **Prerequisite** – make sure the **Dart SDK ≥ 3.0** is installed.
 2. **Clone** the repository and fetch dependencies:
-git clone https://github.com/your-user/dart_chat.git
+git clone https://github.com/RiccardoFr03/dart_chat.git
 cd dart_chat
 dart pub get # no external packages yet, but good practice
 3. Open **two terminal windows** inside the project folder.
